@@ -1,0 +1,15 @@
+C:\VSCodeNetCoreTest\bin\Debug\net7.0\VSCodeNetCoreTest.exe
+C:\VSCodeNetCoreTest\bin\Debug\net7.0\VSCodeNetCoreTest.deps.json
+C:\VSCodeNetCoreTest\bin\Debug\net7.0\VSCodeNetCoreTest.runtimeconfig.json
+C:\VSCodeNetCoreTest\bin\Debug\net7.0\VSCodeNetCoreTest.dll
+C:\VSCodeNetCoreTest\bin\Debug\net7.0\VSCodeNetCoreTest.pdb
+C:\VSCodeNetCoreTest\obj\Debug\net7.0\VSCodeNetCoreTest.csproj.AssemblyReference.cache
+C:\VSCodeNetCoreTest\obj\Debug\net7.0\VSCodeNetCoreTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeNetCoreTest\obj\Debug\net7.0\VSCodeNetCoreTest.AssemblyInfoInputs.cache
+C:\VSCodeNetCoreTest\obj\Debug\net7.0\VSCodeNetCoreTest.AssemblyInfo.cs
+C:\VSCodeNetCoreTest\obj\Debug\net7.0\VSCodeNetCoreTest.csproj.CoreCompileInputs.cache
+C:\VSCodeNetCoreTest\obj\Debug\net7.0\VSCodeNetCoreTest.dll
+C:\VSCodeNetCoreTest\obj\Debug\net7.0\refint\VSCodeNetCoreTest.dll
+C:\VSCodeNetCoreTest\obj\Debug\net7.0\VSCodeNetCoreTest.pdb
+C:\VSCodeNetCoreTest\obj\Debug\net7.0\VSCodeNetCoreTest.genruntimeconfig.cache
+C:\VSCodeNetCoreTest\obj\Debug\net7.0\ref\VSCodeNetCoreTest.dll
